@@ -5,6 +5,11 @@
 #include "mapping.h"
 #include "truck.h"
 
+
+
+
+// fjsofisjgoisjgis
+//godsjgpojkgpokgpodgop
 // Initialize delivery trucks with their routes
 void initializeTrucks(struct Truck* trucks) {
     // Blue truck
