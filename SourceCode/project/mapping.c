@@ -3,6 +3,9 @@
 #include "mapping.h"
 #include "math.h"
 
+
+
+// Example
 struct Map populateMap()
 {
 	struct Map result = {
